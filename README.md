@@ -1,12 +1,7 @@
 # Ello I'm baggZ
 ### I make VR/XR Mods & I make the occasional website or tool. I use blender for 3D modeling.
 
-## Languages I use
-- C++
-- C#
-- HTML
-- CSS
-- Python(I don't use it much anymore)
+![Metrics](/github-metrics.svg)
 
 ## Why I mod
 - To send messages about abusive or nefarious games.
