@@ -1,6 +1,6 @@
 # Ello I'm baggZ
 ### I make VR/XR Mods & I make the occasional website or tool. I use blender for 3D modeling.
--# i use arch btw
+i use arch btw
 
 ![Metrics](/github-metrics.svg)
 
