@@ -1,13 +1,7 @@
 # Ello I'm baggZ
-### I make VR/XR Mods & I make the occasional website or tool. I use blender for 3D modeling.
-i use arch btw
+### I make VR/XR Mods(not cheats) & I make the occasional website or tool. I use blender for 3D modeling.
 
 ![Metrics](/github-metrics.svg)
-
-## Why I mod
-- To send messages about abusive or nefarious games.
-- To shut down copied versions of games
-- To have fun(when allowed by owners of games)
 
 ## Extras
 - My Website: https://portfolio.baggz.rf.gd/
